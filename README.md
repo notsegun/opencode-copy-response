@@ -271,7 +271,3 @@ the transcript copy, the `/c` alias, session switching, the response copy while
 the agent was actively generating (agent kept running, no message added), empty
 responses, the home screen, and a fault-injected clipboard failure that left
 the previous clipboard intact.
-
-## license
-
-mit
